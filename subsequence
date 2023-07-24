@@ -1,0 +1,7 @@
+int number;
+
+for (number = 5; number <= 96; number += 7)
+{
+    Console.WriteLine(number);
+}
+Console.ReadKey();
